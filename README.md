@@ -13,7 +13,7 @@ In diesem Repository können alle Dateien von der Konzeption bis Implementierung
    - [Anforderungsspezifikationen](Anforderungsspezifikationen.pdf)
 2. Erarbeitung
    - [Präsentation zur Implementierung der Datenbank](Präsentation_zur_Implementierung_der_Datenbank.pdf)
-   - [SQL Datei](SQL_Datei.sql)
+   - [SQL Datei mit Dokumentation](SQL_Datei.sql)
    - [Zusammenfassung der Implementierung](Zusammenfassung_der_Implementierung.pdf)
 4. Finalisierung
    - [Installationsanleitung](Installationsanleitung.md)
