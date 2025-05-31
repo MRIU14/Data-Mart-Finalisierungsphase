@@ -9,12 +9,16 @@ Die Idee ist die Erstellung einer Datenbank, auf dessen Grundlage eine App entst
 
 In diesem Repository können alle Dateien von der Konzeption bis Implementierung des Projektes angeschaut werden. Dies umfasst folgende Dateien:
 
-1.  Konzeption
-
-2.  Erarbeitung
-   
-3.  Finalisierung
-   
+1. Konzeption
+   - [Anforderungsspezifikationen](Anforderungsspezifikationen.pdf)
+2. Erarbeitung
+   - [Präsentation zur Implementierung der Datenbank](Präsentation_zur_Implementierung_der_Datenbank.pdf)
+   - [SQL Datei](SQL_Datei.sql)
+   - [Zusammenfassung der Implementierung](Zusammenfassung_der_Implementierung.pdf)
+4. Finalisierung
+   - [Installationsanleitung](Installationsanleitung.md)
+   - [Finalbericht](Finalbericht.pdf)
+   - [Abstract](Abstract.pdf)
 
 _________
 ![image](https://github.com/user-attachments/assets/08a4070d-5783-468f-9aa1-8e2e0b401e06)
