@@ -7,7 +7,9 @@ Viele Menschen haben zu viele Dinge in den eigenen vier Wänden. Sei es Deko, Kl
 
 Die Idee ist die Erstellung einer Datenbank, auf dessen Grundlage eine App entsteht. Mit dieser App können Nutzer lokal ihre Bücher einstellen und andere Bücher ausleihen. Die Datenbank bietet dafür die strukturelle Verwaltung der Daten. Dies bietet die Möglichkeit die Freude an einem Buch zu teilen und die Gemeinschaft zu stärken.  
 
-In diesem Repository können alle Dateien von der Konzeption bis Implementierung des Projektes angeschaut werden. Dies umfasst folgende Dateien:
+Wenn direkt mit der Implementierung der DB gestartet werden möchte, kann die Anleitung dazu unter [Wie installiere ich die DB?](Installationsanleitung.md) abgerufen werden.
+
+In diesem Repository können alle Dateien von der Konzeption bis Implementierung des Projektes angeschaut werden:
 
 1. Konzeption
    - [Anforderungsspezifikationen](Anforderungsspezifikationen.pdf)
